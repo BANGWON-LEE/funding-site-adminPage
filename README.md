@@ -11,14 +11,17 @@
 2) 관리자 페이지 구현<br/>
 
 ![funding-userList](https://user-images.githubusercontent.com/74960408/146298603-954b50c7-22cf-4f19-907b-769dba8bcbfb.jpg)
-<br/>
 
+<br/>
  - 펀딩사이트의 유저 정보, 프로젝트를 몇 번 생성하였는지 보여준다.
 <br/>
+
 ![project L](https://user-images.githubusercontent.com/74960408/146299080-e3f9a6aa-3c63-4be4-8edc-f14e7cc40e5b.jpg)
 
 <br/>
+
 - 유저가 신청한 프로젝트를 수락 또는 거절 할 수 있고
+
 <br/>
 
 ![project_popup](https://user-images.githubusercontent.com/74960408/146298892-b3474022-422f-4c25-b8e2-c37963847fff.jpg)
