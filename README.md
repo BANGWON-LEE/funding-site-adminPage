@@ -24,4 +24,4 @@
 ![project_popup](https://user-images.githubusercontent.com/74960408/146298892-b3474022-422f-4c25-b8e2-c37963847fff.jpg)
 
 <br/>
-- 위와 같이 유저가 신청한 프로젝트의 상세정보를 볼 수 있다.
+ - 위와 같이 유저가 신청한 프로젝트의 상세정보를 볼 수 있다.
