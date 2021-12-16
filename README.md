@@ -8,5 +8,7 @@
 1) 펀딩사이트에 관리자 페이지로의 흐름
 ![funding_admin](https://user-images.githubusercontent.com/74960408/146297231-f739f547-b938-4c59-86f5-c9ff5f1ca042.jpg)
 
-2) 관리자 페이지 구현
+2) 관리자 페이지 구현<br/>
 ![funding-userList](https://user-images.githubusercontent.com/74960408/146298603-954b50c7-22cf-4f19-907b-769dba8bcbfb.jpg)
+
+펀딩사이트의 회원이 프로젝트를 몇 번 생성하였는지 보여준다.
